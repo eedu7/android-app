@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="logo_desc">APP Logo</string>
+    <string name="username_label">Username</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="register_button_text">Register</string>
+
+</resources>
